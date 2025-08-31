@@ -1,0 +1,21 @@
+ul{list-style-type: none;
+    overflow: hidden;
+background-color: blueviolet;
+}
+
+li{float: left;
+padding: 30px;
+font-size: 20px;
+}
+li:hover{color: blue;}
+.home{background-color: brown;}
+.home{float:left;
+    padding: 10px;
+}
+.contact :hover{color: black;}
+.services :hover{color: black;}
+.homes :hover{color: black;}
+.service{background-color: rgb(123, 185, 222);}
+.blog1 :hover{color: black;}
+.about :hover{color: black;}
+.contact01{text-decoration:none;}
